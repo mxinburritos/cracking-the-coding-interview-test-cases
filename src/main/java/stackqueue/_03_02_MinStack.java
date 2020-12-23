@@ -5,9 +5,7 @@ package stackqueue;
  */
 class _03_02_MinStack {
 
-
     void push(int val) {
-        throw new UnsupportedOperationException();
     }
 
     int pop() {
